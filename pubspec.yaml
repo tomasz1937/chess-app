@@ -79,6 +79,10 @@ flutter:
      - assets/backgrounds/blackmarble.jpg
      - assets/famous_games/kasparov_topalov_1999.pgn
      - assets/famous_games/ivanchuk_jussupow_1991.pgn
+     - assets/images/board.jpg
+     - assets/images/homescreen.jpg
+     - assets/images/study.jpg
+     - assets/images/coordinate.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
