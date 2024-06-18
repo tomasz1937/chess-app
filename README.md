@@ -9,23 +9,27 @@ Welcome to the Chess Training Hub. This application is designed to help chess en
    - Games selected based on populairty
    - PGN files of user games could also be uploaded
   
-   ![Home Screen](images/home_screen.png)
+   ![Home Screen](assets/images/homescreen.jpg)
 
 2. **Coordinate Practice**:
    - Helps users practice their knowledge of chess board coordinates.
    - Interactive exercises to improve board visualization skills.
-   - Played in multiple time controls to increase difficulty over time 
+   - Played in multiple time controls to increase difficulty over time
+  
+   ![Coordinate Practice](assets/images/coordinate.jpg)
 
 3. **Opening Study**:
    - Allows users to study different chess openings.
    - Users can select an opening and explore the move tree to understand various lines and variations.
    - 
-   ![Opening Study](images/opening_study.png)
+   ![Opening Study](assets/images/study.jpg)
 
 4. **Analysis Board**:
    - A sandbox board where users can set up positions and analyze different scenarios.
    - Ideal for testing out strategies and moves without the constraints of a game.
    - Can also be used to play someone in a real game locally (using one phone as a board).
+  
+   ![Analysis Board](assets/images/board.jpg)
 
 ## Getting Started
 
